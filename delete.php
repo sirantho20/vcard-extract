@@ -21,7 +21,10 @@ foreach($file as $path)
     if(is_file(trim($cur)))
     {
         //$obj = (new Getvcard($cur))->insertContact();
-        unlink($cur);
+        if(unlink($cur))
+        {
+            echo 'deleted '.$cur.PHP_EOL;
+        }
     }
     else
     {
