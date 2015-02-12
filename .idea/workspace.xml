@@ -27,31 +27,37 @@
       <file leaf-file-name="Getvcard.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Getvcard.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="110" column="1" selection-start="3006" selection-end="3006" vertical-scroll-proportion="-20.32258" vertical-offset="1790" max-vertical-offset="2552">
-              <folding>
-                <marker date="1423675051293" expanded="true" signature="1168:1217" placeholder="select user_..users..." />
-                <marker date="1423675051293" expanded="true" signature="2189:2365" placeholder="insert into ..." />
-              </folding>
+            <state line="110" column="1" selection-start="3006" selection-end="3006" vertical-scroll-proportion="0.0" vertical-offset="1790" max-vertical-offset="2552">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="vcards.txtt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vcards.txtt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10705" column="2" selection-start="1656899" selection-end="1657044" vertical-scroll-proportion="-14.461538" vertical-offset="235134" max-vertical-offset="235818">
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
             <state />
           </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10705" column="2" selection-start="1656899" selection-end="1657044" vertical-scroll-proportion="0.0" vertical-offset="235134" max-vertical-offset="235818">
+              <folding />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="extract.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="extract.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/extract.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="9" selection-start="221" selection-end="221" vertical-scroll-proportion="0.35730338" vertical-offset="83" max-vertical-offset="792">
+            <state line="11" column="23" selection-start="235" selection-end="235" vertical-scroll-proportion="-7.806452" vertical-offset="0" max-vertical-offset="792">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delete.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/delete.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="55" selection-start="433" selection-end="433" vertical-scroll-proportion="0.5549133" vertical-offset="100" max-vertical-offset="814">
               <folding />
             </state>
           </provider>
@@ -71,6 +77,7 @@
         <option value="$PROJECT_DIR$/getpaths.sh" />
         <option value="$PROJECT_DIR$/Getvcard.php" />
         <option value="$PROJECT_DIR$/extract.php" />
+        <option value="$PROJECT_DIR$/delete.php" />
       </list>
     </option>
   </component>
@@ -109,6 +116,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -129,12 +137,16 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -166,14 +178,14 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21501926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21758665" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -205,44 +217,67 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Getvcard.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding>
-            <marker date="1423675051293" expanded="true" signature="1168:1217" placeholder="select user_..users..." />
-            <marker date="1423675051293" expanded="true" signature="2189:2365" placeholder="insert into ..." />
-          </folding>
+        <state line="110" column="1" selection-start="3006" selection-end="3006" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2552">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vcards.txtt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10705" column="2" selection-start="1656899" selection-end="1657044" vertical-scroll-proportion="-14.461538" vertical-offset="235134" max-vertical-offset="235818">
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getpaths.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="723">
+        <state line="10705" column="2" selection-start="1656899" selection-end="1657044" vertical-scroll-proportion="0.0" vertical-offset="235134" max-vertical-offset="235818">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="39" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0" vertical-offset="242" max-vertical-offset="792">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Getvcard.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="1" selection-start="3006" selection-end="3006" vertical-scroll-proportion="-20.32258" vertical-offset="1790" max-vertical-offset="2552">
-          <folding>
-            <marker date="1423675051293" expanded="true" signature="1168:1217" placeholder="select user_..users..." />
-            <marker date="1423675051293" expanded="true" signature="2189:2365" placeholder="insert into ..." />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vcards.txtt">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10705" column="2" selection-start="1656899" selection-end="1657044" vertical-scroll-proportion="0.0" vertical-offset="235134" max-vertical-offset="235818">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getpaths.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="723" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Getvcard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="1" selection-start="3006" selection-end="3006" vertical-scroll-proportion="0.0" vertical-offset="1790" max-vertical-offset="2552">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/extract.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="9" selection-start="221" selection-end="221" vertical-scroll-proportion="0.35730338" vertical-offset="83" max-vertical-offset="792">
+        <state line="11" column="23" selection-start="235" selection-end="235" vertical-scroll-proportion="-7.806452" vertical-offset="0" max-vertical-offset="792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="55" selection-start="433" selection-end="433" vertical-scroll-proportion="0.5549133" vertical-offset="100" max-vertical-offset="814">
           <folding />
         </state>
       </provider>
